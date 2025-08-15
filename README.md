@@ -1,4 +1,4 @@
-## Hi there 👋
+## ola sou o andre jose feijo
 
 
 **andre2aluno555-dotcom/andre2aluno555-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
